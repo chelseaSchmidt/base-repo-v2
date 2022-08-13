@@ -9,9 +9,8 @@ This repo completes basic setup for a full stack application using React, Expres
   - Remove lines 1-9 from this README
 
 ## System requirements
-  - Node (version 10.20.1 used in development)
+  - Node (version 18.2.0 used in development)
   - npm package manager
-  - Nodemon (version 2.0.4 used in development)
 
 ## Run the application
   - npm install
